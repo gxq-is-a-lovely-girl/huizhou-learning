@@ -1,0 +1,52 @@
+$$历年CSPJ题目（难度从小到大）$$
+------------
+| 题目传送门 | 状态 |
+| :----------: | :----------: |
+|   [P5660 [CSP-J2019] 数字游戏](https://www.luogu.com.cn/problem/P5660)| AC |
+|[P2669 [NOIP2015 普及组] 金币](https://www.luogu.com.cn/problem/P2669)  | AC |
+|[P5681 [CSP-J2019 江西] 面积](https://www.luogu.com.cn/problem/P5681)  |AC  |
+| [P1179 [NOIP2010 普及组] 数字统计](https://www.luogu.com.cn/problem/P1179) | AC |
+| [P1075 [NOIP2012 普及组] 质因数分解](https://www.luogu.com.cn/problem/P1075) | AC |
+|[P3954 [NOIP 2017 普及组] 成绩](https://www.luogu.com.cn/problem/P3954)  |AC  |
+|[P5015 [NOIP2018 普及组] 标题统计](https://www.luogu.com.cn/problem/P5015)  |AC  |
+|  [P1980 [NOIP2013 普及组] 计数问题](https://www.luogu.com.cn/problem/P1980) | AC |
+| [P1909 [NOIP2016 普及组] 买铅笔](https://www.luogu.com.cn/problem/P1909) | AC|
+| [P1307 [NOIP2011 普及组] 数字反转](https://www.luogu.com.cn/problem/P1307) | AC |
+| [P2670 [NOIP2015 普及组] 扫雷游戏](https://www.luogu.com.cn/problem/P2670) | AC |
+| [P2141 [NOIP2014 普及组] 珠心算测验](https://www.luogu.com.cn/problem/P2141) | AC |
+| [P1308 [NOIP2011 普及组] 统计单词数](https://www.luogu.com.cn/problem/P1308) | AC |
+| [P5661 [CSP-J2019] 公交换乘](https://www.luogu.com.cn/problem/P5661)  |AC  |
+| [P1190 [NOIP2010 普及组] 接水问题](https://www.luogu.com.cn/problem/P1190) | AC |
+| [P2010 [NOIP2016 普及组] 回文日期](https://www.luogu.com.cn/problem/P2010) |  |
+|  [P3955 [NOIP2017 普及组] 图书管理员](https://www.luogu.com.cn/problem/P3955) |  |
+| [P1981 [NOIP2013 普及组] 表达式求值](https://www.luogu.com.cn/problem/P1981) |  |
+| [P7071 [CSP-J2020] 优秀的拆分](https://www.luogu.com.cn/problem/P7071) | AC |
+| [P7072 [CSP-J2020] 直播获奖](https://www.luogu.com.cn/problem/P7072) | AC |
+| [P5016 [NOIP2018 普及组] 龙虎斗](https://www.luogu.com.cn/problem/P5016) |  |
+| [P2118 [NOIP2014 普及组] 比例简化](https://www.luogu.com.cn/problem/P2118) |  |
+| [P5682 [CSP-J2019 江西] 次大值](https://www.luogu.com.cn/problem/P5682) |  |
+| [P2239 [NOIP2014 普及组] 螺旋矩阵](https://www.luogu.com.cn/problem/P2239) |  |
+| [P3956 [NOIP2017 普及组] 棋盘](https://www.luogu.com.cn/problem/P3956) |  |
+|  [P1309 [NOIP2011 普及组] 瑞士轮](https://www.luogu.com.cn/problem/P1309) |  |
+| [P5662 [CSP-J2019] 纪念品](https://www.luogu.com.cn/problem/P5662) |  |
+| [P1199 [NOIP2010 普及组] 三国游戏](https://www.luogu.com.cn/problem/P1199) |  |
+|[P1077 [NOIP2012 普及组] 摆花](https://www.luogu.com.cn/problem/P1077)  |  |
+|  [P1158 [NOIP2010 普及组] 导弹拦截](https://www.luogu.com.cn/problem/P1158) |  |
+| [P1076 [NOIP2012 普及组] 寻宝](https://www.luogu.com.cn/problem/P1076) |  |
+| [P2058 [NOIP2016 普及组] 海港](https://www.luogu.com.cn/problem/P2058) |  |
+|[P7074 [CSP-J2020] 方格取数](https://www.luogu.com.cn/problem/P7074)  | AC |
+|[P2671 [NOIP2015 普及组] 求和](https://www.luogu.com.cn/problem/P2671)  |  |
+| [P1310 [NOIP2011 普及组] 表达式的值](https://www.luogu.com.cn/problem/P1310) |  |
+|[P5018 [NOIP2018 普及组] 对称二叉树](https://www.luogu.com.cn/problem/P5018)  |  |
+| [P2672 [NOIP2015 普及组] 推销员](https://www.luogu.com.cn/problem/P2672) |  |
+|  [P1982 [NOIP2013 普及组] 小朋友的数字](https://www.luogu.com.cn/problem/P1982) |  |
+|  [P7073 [CSP-J2020] 表达式](https://www.luogu.com.cn/problem/P7073) |  |
+| [P1078 [NOIP2012 普及组] 文化之旅](https://www.luogu.com.cn/problem/P1078) |  |
+|[P5663 [CSP-J2019] 加工零件](https://www.luogu.com.cn/problem/P5663)  |  |
+| [P1983 [NOIP2013 普及组] 车站分级](https://www.luogu.com.cn/problem/P1983) |  |
+| [P5683 [CSP-J2019 江西] 道路拆除](https://www.luogu.com.cn/problem/P5683)  |  |
+|[P5684 [CSP-J2019 江西] 非回文串](https://www.luogu.com.cn/problem/P5684)  |  |
+| [P2119 [NOIP2016 普及组] 魔法阵](https://www.luogu.com.cn/problem/P2119) |  |
+|  [P5017 [NOIP2018 普及组] 摆渡车](https://www.luogu.com.cn/problem/P5017) |  |
+| [P2258 [NOIP2014 普及组] 子矩阵](https://www.luogu.com.cn/problem/P2258)  |  |
+| [P3957 [NOIP2017 普及组] 跳房子](https://www.luogu.com.cn/problem/P3957) |  |
