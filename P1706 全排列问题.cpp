@@ -18,7 +18,7 @@ void DFS(int x){
 	}else{
 		for(int i=1;i<=n;i++){
 			if(!vis[i]){
-				vis[x]=1;
+				vis[i]=1;
 				a[x]=i;
 				DFS(x+1);
 				vis[i]=0;
